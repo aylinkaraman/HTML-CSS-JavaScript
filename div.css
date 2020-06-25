@@ -1,0 +1,134 @@
+body{
+    background-color: black;
+}
+.header{
+    width: 100%;
+    height: 80px;
+}
+.content{
+    width: 500px;
+    height: 500px;
+    background-color: gray;
+    margin: 50px auto;
+    padding: 25px;
+}
+.yazi{
+    text-align: center;
+    font-size: 30px;
+    line-height: 80px;
+    font-weight: bold;
+}
+.kutu1{
+    width: 32%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-right: 5px solid blue;
+    border-bottom: 5px solid blue;
+    float: left;
+}
+.kutu1:hover{
+    background-color: brown;
+    color: white;
+}
+.kutu2{
+    width: 32%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-right: 5px solid blue;
+    border-bottom: 5px solid blue;
+    float: left;
+}
+.kutu2:hover{
+    background-color: brown;
+    color: white;
+}
+.kutu3{
+    width: 32%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-bottom: 5px solid blue;
+    float: left;
+}
+.kutu3:hover{
+    background-color: brown;
+    color: white;
+}
+.kutu4{
+    width: 32%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-right: 5px solid blue;
+    border-bottom: 5px solid blue;
+    float: left;
+}
+.kutu4:hover{
+    background-color: brown;
+    color: white;
+}
+.kutu5{
+    width: 32%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-right: 5px solid blue;
+    border-bottom: 5px solid blue;
+    float: left;
+}
+.kutu5:hover{
+    background-color: brown;
+    color: white;
+}
+.kutu6{
+    width: 32%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-bottom: 5px solid blue;
+    float: left;
+}
+.kutu6:hover{
+    background-color: brown;
+    color: white;
+}
+.kutu7{
+    width: 32%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-right: 5px solid blue;
+    float: left;
+}
+.kutu7:hover{
+    background-color: brown;
+    color: white;
+}
+.kutu8{
+    width: 32%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-right: 5px solid blue;
+    float: left;
+}
+.kutu8:hover{
+    background-color: brown;
+    color: white;
+}
+.kutu9{
+    width: 32%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    float: left;
+}
+.kutu9:hover{
+    background-color: brown;
+    color: white;
+}
+.temizle{
+    clear: both;
+}
