@@ -1,0 +1,41 @@
+.content{
+    width: 200px;
+    background-color: lightblue;
+    border: 5px solid yellow;
+    margin: 50px auto;
+    padding: 20px;
+}
+.kutu1{
+    height: 150px;
+    background-color: black;
+    color: white;
+    border: 5px solid blue;
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 30px;
+}
+.kutu2{
+    height: 150px;
+    background-color: black;
+    color: white;
+    border: 5px solid brown;
+    text-align: center;
+    line-height: 150px;
+    font-size: 30px;
+}
+.content:hover{
+    background-color: gray;
+    color: blue;
+    border: 5px solid blue;
+}
+.kutu1:hover{
+    background-color: green;
+    color: orange;
+    border: 5px dotted purple;
+}
+.kutu2:hover{
+    background-color: blueviolet;
+    color: deepskyblue;
+    border: 5px double peru;
+}
