@@ -1,0 +1,22 @@
+.baslik{
+    background-color: red;
+    color: white;
+}
+.satir1{
+    background-color: blue;
+    color: palegoldenrod;
+}
+.satir2{
+    background-color: yellow;
+    color: black;
+}
+.buyukHarf{
+    text-transform: uppercase;
+}
+.cap{
+    text-transform: capitalize;
+}
+.boyut{
+    width: 200px;
+    height: 200px;
+}
